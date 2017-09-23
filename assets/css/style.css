@@ -120,25 +120,32 @@ footer {
 }
 
 @media screen and (max-width: 980px) {
-	body {
 
-	}
 }
 
 @media screen and (max-width: 768px) {
+	#main {
+		margin:20px;
+		padding: 20px;
+	}
 	#info {
+		margin-bottom: 20px;
 		width: 100%;
 	}
-	.connect {
+	#connect {
+		margin: 0;
 		width: 100%;
 	}
 }
 
 @media screen and (max-width: 640px) {
+	#main {
+		margin: 20px;
+	}
 	#info {
 		width: 100%;
 	}
-	.connect {
+	#connect {
 		width: 100%;
 	}
 }

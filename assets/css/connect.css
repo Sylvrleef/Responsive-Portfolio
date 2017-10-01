@@ -6,7 +6,8 @@
 }
 
 #linkgroup {
-	margin-left: 30px;
+	margin:auto;
+	width: 75%;
 }
 
 #stackoverflow {
@@ -79,4 +80,3 @@
 #linkedin:hover .img-top {
     display: inline;
 }
-

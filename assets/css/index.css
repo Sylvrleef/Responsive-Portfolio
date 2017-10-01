@@ -1,4 +1,6 @@
 #mypic {
-	margin-right: 20px;
+	height: 300px;
+	width: 300px;
+	margin-right: 0px 20px 50px 0px;
 	float: left;
 }
